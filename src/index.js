@@ -22,7 +22,7 @@ app.listen(PORT, ()=>{
     console.log(`The app is running on port: http://localhost:${PORT}`);
 })
 
-export default app;
+// export default app;
 
 
 
